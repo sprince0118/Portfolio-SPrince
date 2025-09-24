@@ -1,7 +1,7 @@
 Any university projects are not present in this repository due to concerns with plagarism.
 All projects contained are personal projects with the excepiton of Orbital Mechanics Simulator, which was done as my A Level NEA.
 
-This portfolio contains the following projects:
+This portfolio contains the following projects, all of which have been written in Python:
 
 **Wave function collapse** (12/05/2023): inspired by a coding challenge from "The Coding Train" (https://www.youtube.com/watch?v=rI_y2GAlQFM). Procedurally generates an image using set tile connection rules.
 
