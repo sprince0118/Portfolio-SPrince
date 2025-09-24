@@ -1,0 +1,44 @@
+Show|TV|Adventure|S|Drama
+Another Show|TV|Action|S|Drama
+Movie|Movie|Action|S|Sci-fi|War|Fantasy|Drama
+Second Movie|Movie|Action|A|Psychological|Drama|War|Sci-fi|Supernatural
+Show Show Show|TV|Action|A|Psychological|War|Sci-fi|Supernatural
+Movie 3: The Return|Movie|Adventure|S|Drama
+A New Show|TV|Drama|S|Comedy
+TV Show|TV|Action|S|Drama|Comedy
+Movieeeee|Movie|Romance|A|Drama
+TV2|TV|Romance|B|Drama
+Show3|TV|Action|A|Fantasy|Comedy|Psychological|Supernatural
+MovE|Movie|Romance|A|Supernatural|Drama
+Action Show|TV|Action|B|Sci-fi|Supernatural|Comedy|Drama
+Gambling Drama|TV|Drama|B|Drama|Gambling|Psychological
+Vampire Show|TV|Action|B|Comedy|Supernatural
+School comedy?|TV|Comedy|B|School
+Action show 2|TV|Action|B|Comedy|Drama|Fantasy|Supernatural|Romance
+Another TV|TV|Romance|C|Comedy|Drama
+Something|TV|Romance|C|Comedy
+TV3|TV|Drama|D|Drama|Psychological|Supernatural|Romance
+Bad Show|TV|Action|F|Drama|Comedy|Fantasy
+Mid-tier Show|TV|Comedy|B|Supernatural
+Amazing Drama|TV|Drama|S|Psychological|Sci-fi|Drama
+Another Show Again|TV|Drama|C|Psychological
+Really Good Movie|Movie|Adventure|A|Fantasy|Drama|Supernatural|Romance
+TV4|TV|Action|B|Horror|Supernatural|Drama
+TV5|TV|Comedy|C|School
+War Drama|TV|Action|A|Drama|Psychological|War
+Fantasy Comedy|TV|Comedy|B|Fantasy|Adventure
+Mystery Show|TV|Mystery|B|Drama|Romance|Action|Supernatural
+Death Note|TV|Thriller|S|Mystery|Supernatural|Psychological
+School Sport Show|TV|Romance|A|School|Sport|Drama
+Adventure Show|TV|Adventure|B|Action|Fantasy
+Amazing Sci-Fi|TV|Adventure|S|Comedy|Drama|Sci-fi
+Sci-Fi Drama|TV|Drama|A|Action|Romance|Sci-fi
+Vampire Show Again|TV|Drama|C|Romance|Supernatural|Comedy
+TV6|TV|Action|C|Romance|Fantasy|Comedy|Drama
+TV7|TV|Comedy|B|Drama|Supernatural
+Romcom|TV|Romance|B|Comedy|Drama
+Future War Show|TV|Action|A|Supernatural|War|Psychological|Sci-fi
+Romance Show|TV|Romance|A|Drama
+Lazarus|TV|Action|A|Drama|Sci-fi|Psychological
+Re:Zero|TV|Adventure|A|Romance|Drama|Comedy|Action|Fantasy
+Vampires vs Aliens|TV|Action|B|Sci-fi|Supernatural
