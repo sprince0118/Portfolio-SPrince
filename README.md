@@ -9,4 +9,6 @@ This portfolio contains the following projects:
 
 **Orbital Mechanics Simulator** (29/03/2024): completed as part of my A Level in computer science, this project recieved full marks. Hosted on itch.io: https://orbitalmechanicssimulator.itch.io/simulation
 
+**Show Ranking/Analysis** (19/08/2024): program that allows users to see statistics of shows/films they have watched and compare their ranking (done in tiers from S-F), genre and related themes.
+
 **Rank Tree** (12/02/2025): system to rank items by user preference as efficiently as possible. It uses a self-balancing AVL tree that I had learned about as part of my Artificial Intelligence module to ensure the user made the least number of comparisons between a new item and an item in the tree to place it. 
