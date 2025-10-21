@@ -32,7 +32,7 @@ class MovingAverageCrossover:
             #interpret signals and add to records
             self.signals.append(1) if (shortMA > longMA) else self.signals.append(0)
 
-            print(f"SHORT: {shortMA}    LONG: {longMA}   BUY: {shortMA > longMA}    DAY PRICE: {dayClosePrice}    SHORT OLDEST: {data[shortMAOldest]}")
+            #print(f"SHORT: {shortMA}    LONG: {longMA}   BUY: {shortMA > longMA}    DAY PRICE: {dayClosePrice}    SHORT OLDEST: {data[shortMAOldest]}")
             
             #recalculate short and long MAs, then update oldest index
             shortMA += (dayClosePrice - data[shortMAOldest])/self.shortDuration
